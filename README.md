@@ -19,11 +19,11 @@ and then reboot your machine
 
 1. Clone the Repo:
 ```
-git clone https://github.com/flexcomng/erpnext_quick_install.git
+git clone https://github.com/flexcomng/erpnext_quick_install_unganisha.git
 ```
 2. navigate to the folder:
 ```
-cd erpnext_quick_install
+cd erpnext_quick_install_unganisha
 ```
 3. Make the script executable
 ```
