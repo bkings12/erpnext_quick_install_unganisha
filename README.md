@@ -19,7 +19,7 @@ and then reboot your machine
 
 1. Clone the Repo:
 ```
-git clone https://github.com/flexcomng/erpnext_quick_install_unganisha.git
+https://github.com/bkings12/erpnext_quick_install_unganisha.git
 ```
 2. navigate to the folder:
 ```
